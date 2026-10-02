@@ -1,6 +1,6 @@
 ## Projet Mathématique 
 
-LaTeX: (bientôt)
-Repo: [**prjmath**](https://github.com/optimisationking/prjmath)
+LaTeX: (bientôt)\
+Repo: [**prj-math**](https://github.com/optimisationking/prj-math)
 
 
